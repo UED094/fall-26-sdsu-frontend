@@ -7,7 +7,8 @@
 		"build": "next build",
 		"start": "next start",
 		"lint": "eslint",
-		"prepare": "husky"
+		"prepare": "husky",
+		"pretty": "prettier --write ."
 	},
 	"dependencies": {
 		"next": "16.4.6",
